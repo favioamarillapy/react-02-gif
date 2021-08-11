@@ -1,0 +1,19 @@
+html, body {
+  background-color: #fcfafa;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+body {
+  padding: 20px 60px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
